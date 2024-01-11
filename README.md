@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm zulkarnain</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<Img align="right" alt="coding" width="400" src="https://github.com/Xulkarnain/Xulkarnain/assets/150577751/ea1295d7-c855-4f5f-9fdd-9b374e80b7b"
+<Img align="right" alt="coding" width="400" src="https://github.com/Xulkarnain/Xulkarnain/assets/150577751/30198dac-7c5d-4ccc-a539-11d8286398da">
+"
 "
 
-<p align="left"> <img src="![image](https://github.com/Xulkarnain/Xulkarnain/assets/150577751/9151bf7a-8f23-40ba-b8d1-d334ad3b09b7)"
- </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xulkarnain&label=Profile%20views&color=0e75b6&style=flat" alt="xulkarnain" /> </p>
 
 - 🔭 I’m currently working on [Frontend web development](https://github.com/Xulkarnain/TECHNOHACKS_EDUTECH)
 
