@@ -1,4 +1,5 @@
-![logo](https://github.com/Xulkarnain/Xulkarnain/blob/main/github-header-image.png)
+![logo](https://github.com/Xulkarnain/Xulkarnain/blob/main/github-header-<img width="1836" alt="Make your README (2)" src="https://github.com/Xulkarnain/Xulkarnain/assets/150577751/20195692-ed4e-42a8-b623-74eb0ff7f67e">
+)
 <h1 align="center">Hi 👋, I'm zulkarnain</h1>
 <h3 align="center">A passionate software Engineer</h3>
 
