@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm zulkarnain</h1>
 <h3 align="center">A passionate software Engineer</h3>
 
-<Img align="right" alt="coding" width="400" src="[Furqan0101/Furqanbandey1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifsec.com%2Fluffy-gifs%2F&psig=AOvVaw254mRLVsaLUAT12aPusfSG&ust=1718351805203000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCf9byN2IYDFQAAAAAdAAAAABAR)">
+<Img align="right" alt="" width="400" src="https://31.media.tumblr.com/c0288b929601dcd64973841f870cadf0/tumblr_mj9fq20Jou1rthlxmo1_500.gif">
 "
 "
 
