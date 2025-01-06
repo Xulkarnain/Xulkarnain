@@ -1,7 +1,7 @@
 <img width="1751" alt="Make your README (3)" src="https://github.com/Xulkarnain/Xulkarnain/assets/150577751/90ec5dfb-46d2-43d0-9d28-84ae13b9655e">
 
 <h1 align="center">Hi 👋, I'm zulkarnain</h1>
-<h3 align="center">A passionate software Engineer</h3>
+<h3 align="center">Data Science Enthusiast</h3>
 
 <Img align="right" alt="" width="400" src="https://31.media.tumblr.com/c0288b929601dcd64973841f870cadf0/tumblr_mj9fq20Jou1rthlxmo1_500.gif">
 "
@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xulkarnain&label=Profile%20views&color=0e75b6&style=flat" alt="xulkarnain" /> </p>
 
-- 🔭 I’m currently Learning [PYTHON](https://github.com/Xulkarnain/TECHNOHACKS_EDUTECH)
+- 🔭 DSA | Data science (https://github.com/Xulkarnain/TECHNOHACKS_EDUTECH)
 
-- 🌱 I’m currently learning **C,Javascript,Python.**
+- 🌱 I’m currently **learning DSA**
 
-- 💬 Ask me about **HTML,CSS,JS,C,PYTHON**
+- 💬 Ask me about **C , C++ , DS , Mysql , OOPs**
 
 - 📫 How to reach me **darzulkarnain@gmail.com**
 
