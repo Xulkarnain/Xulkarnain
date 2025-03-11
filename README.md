@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm **[Your Name]**, a **Data Science & Machine Learning Enthusiast** with a background in **Computer Science**. Passionate about **solving real-world problems** using data and AI.  <br><br>🔹**Tech Stack:** Python, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow<br>🔹 **Currently Learning:** Advanced Machine Learning & Data Structures  <br>🔹**Projects:** Data Science Case Studies, ML Models, and Automation Scripts<br> 🔹**Interests:** AI Research, Deep Learning, and Open-Source Contributions<br>
+I'm **Zulkarnain**, a **Data Science & Machine Learning Enthusiast** with a background in **Computer Science**. Passionate about **solving real-world problems** using data and AI.  <br><br>🔹**Tech Stack:** Python, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow<br>🔹 **Currently Learning:** Advanced Machine Learning & Data Structures  <br>🔹**Projects:** Data Science Case Studies, ML Models, and Automation Scripts<br> 🔹**Interests:** AI Research, Deep Learning, and Open-Source Contributions<br>
 
 
 ## 🌐 Socials:
