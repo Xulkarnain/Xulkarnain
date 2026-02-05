@@ -1,9 +1,9 @@
 # 💻 **Zulkarnain - Aspiring Data Scientist & ML Enthusiast**
 
-Welcome to my **GitHub Profile**! I'm a passionate **Data Science and Machine Learning enthusiast** currently deep-diving into the world of AI, Data Science, and Advanced Technologies. I’m committed to continuous learning and sharing my journey through projects, repositories, and contributions.
+Welcome to my **GitHub Profile**! I'm a passionate **Data Science and Machine Learning enthusiast** currently exploring ANN,CNN,RNN and Advanced Technologies. I’m committed to continuous learning and sharing my journey through projects, repositories, and contributions.
 
 ## 🚀 **About Me**
-- 🎓 Currently learning **Data Science, Machine Learning, and AI**
+- 🎓 Currently learning **Data Science, Machine Learning, and Deep Learning**
 - 💻 Strong foundation in **Data Structures and Algorithms**
 - 🌐 Experienced in:
   <div style="display: flex; flex-wrap: wrap; gap: 15px; font-size: 14px;">
@@ -39,16 +39,6 @@ Welcome to my **GitHub Profile**! I'm a passionate **Data Science and Machine Le
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulkarnain0)
 [![X](https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_xulkarnain_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darzulkarnain@gmail.com)
-
-## 🏆 **GitHub Stats**
-![Profile Views](https://komarev.com/ghpvc/?username=Xulkarnain&color=blue)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Xulkarnain&theme=dark&hide_border=false)<br/>
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xulkarnain&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xulkarnain&layout=compact&theme=radical)
 
 ## 🌟 **My Goals**
 - Contribute to impactful open-source projects
